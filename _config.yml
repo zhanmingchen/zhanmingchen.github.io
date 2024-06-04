@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Zhanming's Homepage"
 title_separator          : "-"
 name                     : &name "Zhanming Chen"
-description              : &description "PhD researcher in HCI & social computing"
+description              : &description "Hi! I am Zhanming Chen."
 url                      : https://zhanmingchen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhanmingchen/zhanmingchen.github.io"
@@ -21,10 +21,10 @@ repository               : "zhanmingchen/zhanmingchen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "zhanming_profile.png"
   name             : "Zhanming Chen"
   pronouns         : "he/him/his" # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD researcher in HCI & social computing"
   location         : "Minneapolis, MN, US"
   employer         : "University of Minnesota"
   uri              : # URL
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "zhanming chen" # Username
+  linkedin         : "zhanmingchen" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
