@@ -21,7 +21,7 @@ repository               : "zhanmingchen/zhanmingchen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "zhanming_profile.png"
+  avatar           : "zhanming_profile.jpg"
   name             : "Zhanming Chen"
   pronouns         : "he/him/his" # example: "she/her"  
   bio              : "PhD researcher in HCI & social computing"
