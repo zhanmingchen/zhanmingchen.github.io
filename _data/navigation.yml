@@ -16,8 +16,8 @@ main:
     url: /year-archive/
     
   - title: "CV"
-     url: /files/CV_Zhanming_Chen_20240430.pdf
-  #  url: /cv/
+  #   url: /files/CV_Zhanming_Chen_20240430.pdf
+    url: /cv/
     
   # - title: "Guide"
   #   url: /markdown/
