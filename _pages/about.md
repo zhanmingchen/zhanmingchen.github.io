@@ -13,14 +13,12 @@ redirect_from:
 
 📺 Before starting graduate studies, I interned at Tencent and NetEase as a game designer and digital marketing specialist, respectively. These are followed by a full-time position as a marketing specialist at Time China (a real estate company in China). I enhanced my skills in game design, consumer behavior research, customer relationship management (CRM), and digital marketing.
 
-## 🌟 Highlighted Experience
-
-On progress.
-
 ## 🥳 Latest News
 
-On progress.
+Thanks to Sarah Paynter for citing our study _"User-Defined Foot Gestures for Eyes-Free Interaction in Smart Shower Rooms"_ in her latest article in the Wall Street Journal! Using the participatory design approach, we distilled a set of five foot gestures for six concurrent tasks (e.g., controlling water volume while washing hair) to support hands-free experiences in smart shower rooms. We further proposed a taxonomy and design guidelines for foot gesture design in this study. (Source: [LinkedIn Post](https://www.linkedin.com/posts/zhanmingchen_the-medspa-bathroom-fixtures-that-monitor-activity-7183662910198411264-Xu65?utm_source=share&utm_medium=member_desktop))
 
 ## 📄 Latest Publications
 
-On progress.
+Huiyue Wu, **Zhanming Chen**, Yifan Huang, and Huawei Tu. 2024. Research on the uncanny valley effect in artificial intelligence news anchors. _Multimedia Tools and Applications_ (January 2024). https://doi.org/10.1007/s11042-023-18073-z
+
+**Zhanming Chen**, Huawei Tu, and Huiyue Wu. 2022. User-Defined Foot Gestures for Eyes-Free Interaction in Smart Shower Rooms. _International Journal of Human–Computer Interaction_ 39, 20 (December 2023), 4139–4161. https://doi.org/10.1080/10447318.2022.2109260

@@ -6,7 +6,7 @@ excerpt: 'We conducted a three-phase study to explore foot-gesture-based interac
 date: 2022-08-12
 venue: 'International Journal of Human–Computer Interaction'
 paperurl: 'https://www.tandfonline.com/doi/full/10.1080/10447318.2022.2109260'
-citation: 'Zhanming Chen, Huawei Tu, and Huiyue Wu. 2023. User-Defined Foot Gestures for Eyes-Free Interaction in Smart Shower Rooms. <i>International Journal of Human–Computer Interaction</i> 39, 20 (December 2023), 4139–4161. https://doi.org/10.1080/10447318.2022.2109260'
+citation: 'Zhanming Chen, Huawei Tu, and Huiyue Wu. 2022. User-Defined Foot Gestures for Eyes-Free Interaction in Smart Shower Rooms. <i>International Journal of Human–Computer Interaction</i> 39, 20 (December 2023), 4139–4161. https://doi.org/10.1080/10447318.2022.2109260'
 ---
 
 ## Abstract
