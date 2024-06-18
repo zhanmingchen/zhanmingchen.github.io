@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "zhanming_profile.jpg"
   name             : "Zhanming Chen"
-  pronouns         : "he/him/his" # example: "she/her"  
+  pronouns         : "He/him/his" # example: "she/her"  
   bio              : "PhD researcher in HCI & social computing"
   location         : "Minneapolis, MN, US"
   employer         : "University of Minnesota"
