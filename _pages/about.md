@@ -15,10 +15,12 @@ redirect_from:
 
 ## 🌟 Highlighted Experience
 
-### 🥳 Latest News
+On progress.
+
+## 🥳 Latest News
 
 On progress.
 
-### 📄 Latest Publications
+## 📄 Latest Publications
 
 On progress.
