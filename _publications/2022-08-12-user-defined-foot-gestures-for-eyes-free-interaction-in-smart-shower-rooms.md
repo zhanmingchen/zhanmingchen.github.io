@@ -1,7 +1,7 @@
 ---
 title: "User-Defined Foot Gestures for Eyes-Free Interaction in Smart Shower Rooms"
 collection: publications
-permalink: /publication/2022-08-12-user-defined-foot-gestures-for-eyes-free-interaction-in-smart-shower-rooms
+permalink: /publications/2022-08-12-user-defined-foot-gestures-for-eyes-free-interaction-in-smart-shower-rooms
 excerpt: 'We conducted a three-phase study to explore foot-gesture-based interaction to achieve eyes-free interaction in smart shower rooms.'
 date: 2022-08-12
 venue: 'International Journal of Human–Computer Interaction'

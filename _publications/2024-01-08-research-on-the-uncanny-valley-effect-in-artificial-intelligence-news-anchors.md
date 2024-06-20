@@ -1,7 +1,7 @@
 ---
 title: "Research on the uncanny valley effect in artificial intelligence news anchors"
 collection: publications
-permalink: /publication/2024-01-08-research-on-the-uncanny-valley-effect-in-artificial-intelligence-news-anchors
+permalink: /publications/2024-01-08-research-on-the-uncanny-valley-effect-in-artificial-intelligence-news-anchors
 excerpt: 'This study examined the existence and effect of the uncanny valley in AI news anchors. Results showed that AI news anchors failed to establish emotional bonds with audiences, and thus fell within the uncanny valley.'
 date: 2024-01-08
 venue: 'Multimedia Tools and Applications'
