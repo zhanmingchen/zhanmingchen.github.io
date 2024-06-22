@@ -1,6 +1,6 @@
 ---
 title: "Experience Beijing"
-excerpt: "This project, led by the School of Communication and Design, Sun Yat-sen University, was specially developed for the 2022 Beijing Winter Olympics.<br/><img src='/images/500x300.png'>"
+excerpt: "This project, led by the School of Communication and Design, Sun Yat-sen University, was specially developed for the 2022 Beijing Winter Olympics.<br/><img src='/images/Experience-Beijing-1.png'><br/>"
 collection: portfolio
 tags:
   - Human-centered computing
