@@ -2,6 +2,7 @@
 title: 'Balance: An Overview of HCI from the perspective of information theory'
 date: 2022-05-19
 permalink: /posts/2022/05/balance-an-overview-of-hci-from-the-perspective-of-information-theory/
+excerpt: In this podcast session, I conceptualize the process of HCI from the perspective of information theory.
 tags:
   - Insights
   - Human-centered computing
