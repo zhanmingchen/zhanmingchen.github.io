@@ -7,6 +7,14 @@ date: 2024-01-08
 venue: 'Multimedia Tools and Applications'
 paperurl: 'https://link.springer.com/article/10.1007/s11042-023-18073-z'
 citation: 'Huiyue Wu, Zhanming Chen, Yifan Huang, and Huawei Tu. 2024. Research on the uncanny valley effect in artificial intelligence news anchors. <i>Multimedia Tools and Applications</i> (January 2024). https://doi.org/10.1007/s11042-023-18073-z'
+tags:
+  - Human-centered computing
+  - Human computer interaction (HCI)
+  - Visualization design and evaluation methods
+  - Collaborative and social computing design and evaluation methods
+  - Graphical user interfaces
+  - Laboratory experiments
+  - User models
 ---
 
 ## Abstract
