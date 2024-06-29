@@ -6,11 +6,12 @@ permalink: /teaching/2023-Fall-TA
 venue: "Universit of Minnesota, College of Design"
 date: 2023-12-31
 location: "Guangzhou, China"
+excerpt: 'For this undergraduate course, I held office hours and graded assignments for 64 students.'
 ---
 
 ## Teaching Description
 
-During Fall 2023, I worked as a teaching assistant supervised by Ms. Peggy Lord. For the undergraduate course "RM 2215: Introduction to Retail Merchandising" (online, asynchronous). I held office hours and graded assignments for 64 students.
+During Fall 2023, I worked as a teaching assistant supervised by Ms. Peggy Lord. For the undergraduate course "RM 2215: Introduction to Retail Merchandising" (online, asynchronous), I held office hours and graded assignments for 64 students.
 
 ## Student Ratings
 
