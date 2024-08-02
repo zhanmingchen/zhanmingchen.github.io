@@ -9,7 +9,7 @@ redirect_from:
 
 🧑🏻‍💻 I am Zhanming /zɑːn miŋ/, a PhD student in the Human Factor and Ergonomics (HFE) program at the University of Minnesota, Twin Cities. I completed my Master’s degree in interaction design and Bachelor in marketing at Sun Yat-sen University (China) in 2023 and 2019, separately.
 
-⚖️ I was born and grew up in Guangzhou and have lived in this city with its fascinating fusion features for 26 years. Immersed in this city's diverse culture, architecture, food, and language, I became interested in diversity and equity of the society since I was young, and I have actively participated in public service activities such as education in low socio-economic communities and services for the senior community.
+⚖️ I was born and grew up in Guangzhou, China, and have lived in this city with its fascinating fusion features for 26 years. Immersed in this city's diverse culture, architecture, food, and language, I became interested in diversity and equity of the society since I was young, and I have actively participated in public service activities such as education in low socio-economic communities and services for the senior community.
 
 🏥 My experiences inspire my interests in human-computer interaction (HCI) and collaborative and social computing, with focuses on alleviating inequity in healthcare contexts. My goal is to apply asset-based design approaches to support the unique requirements of people in underserved communities and reduce the “JAM” moments in their daily routines. I am currently working with the Asian-American community in Minnesota and designing technology-mediated solutions for them.
 
