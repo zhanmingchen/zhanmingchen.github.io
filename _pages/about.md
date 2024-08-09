@@ -17,7 +17,7 @@ redirect_from:
 
 ## 🥳 News
 
- <span class="highlight" style="background-color: #ffd40070">[04-12-2024]</span> Thanks to Sarah Paynter for citing our study _"User-Defined Foot Gestures for Eyes-Free Interaction in Smart Shower Rooms"_ in her latest article in the _Wall Street Journal_! Using the participatory design approach, we distilled a set of five foot gestures for six concurrent tasks (e.g., controlling water volume while washing hair) to support hands-free experiences in smart shower rooms. We further proposed a taxonomy and design guidelines for foot gesture design in this study. (Source: [LinkedIn Post](https://www.linkedin.com/posts/zhanmingchen_the-medspa-bathroom-fixtures-that-monitor-activity-7183662910198411264-Xu65?utm_source=share&utm_medium=member_desktop))
+ <span class="highlight" style="background-color: #ffd40070">[04-12-2024]</span> Thanks to Sarah Paynter for citing our study _"User-Defined Foot Gestures for Eyes-Free Interaction in Smart Shower Rooms"_ in her latest article in the _Wall Street Journal_! (Source: [LinkedIn Post](https://www.linkedin.com/posts/zhanmingchen_the-medspa-bathroom-fixtures-that-monitor-activity-7183662910198411264-Xu65?utm_source=share&utm_medium=member_desktop))
 
 ## 📄 Latest Publications
 
