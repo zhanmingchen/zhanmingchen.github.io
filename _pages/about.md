@@ -17,9 +17,13 @@ redirect_from:
 
 ## 🥳 News
 
- <span class="highlight" style="background-color: #ffd40070">[04-12-2024]</span> We greatly appreciate Sarah Paynter for featuring our study _"User-Defined Foot Gestures for Eyes-Free Interaction in Smart Shower Rooms"_ in her latest article in the _Wall Street Journal_! (Source: [LinkedIn Post](https://www.linkedin.com/posts/zhanmingchen_the-medspa-bathroom-fixtures-that-monitor-activity-7183662910198411264-Xu65?utm_source=share&utm_medium=member_desktop))
+<span class="highlight" style="background-color: #ffd40070">[11-12-2024]</span> I'm thrilled to present my first poster: _"Supporting Healthcare Providers’ Motivations for Caring for Patients in Underserved Communities."_ during CSCW '24 in San Jose, Costa Rica. (Source: [LinkedIn Post](https://www.linkedin.com/posts/zhanmingchen_cscw24-activity-7262318204255911936-CNR9?utm_source=share&utm_medium=member_ios))
+
+<span class="highlight" style="background-color: #ffd40070">[04-12-2024]</span> We greatly appreciate Sarah Paynter for featuring our study _"User-Defined Foot Gestures for Eyes-Free Interaction in Smart Shower Rooms"_ in her latest article in the _Wall Street Journal_! (Source: [LinkedIn Post](https://www.linkedin.com/posts/zhanmingchen_the-medspa-bathroom-fixtures-that-monitor-activity-7183662910198411264-Xu65?utm_source=share&utm_medium=member_desktop))
 
 ## 📄 Latest Publications
+
+Alisha Ghaju\*, **Zhanming Chen\***, May Hang, and Ji Youn Shin. 2024. Supporting healthcare providers’ motivations for caring for patients in underserved communities. In _Companion publication of the 2024 conference on computer-supported cooperative work and social computing_ (CSCW companion ’24), 459–464. [https://doi.org/10.1145/3678884.3681891](https://doi.org/10.1145/3678884.3681891)
 
 Huiyue Wu, **Zhanming Chen**, Yifan Huang, and Huawei Tu. 2024. Research on the uncanny valley effect in artificial intelligence news anchors. _Multimedia Tools and Applications_ (January 2024). [https://doi.org/10.1007/s11042-023-18073-z](https://doi.org/10.1007/s11042-023-18073-z)
 

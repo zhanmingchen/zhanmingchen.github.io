@@ -6,12 +6,12 @@ permalink: /teaching/2024-Fall-TA
 venue: "Universit of Minnesota, College of Design"
 date: 2024-12-31
 location: "Saint Paul, MN, US"
-excerpt: 'For this undergraduate course, I held office hours and graded assignments for 64 students.'
+excerpt: 'I designed this undergraduate course and provided lectures for 24 students.'
 ---
 
 ## Teaching Description
 
-During Fall 2024, I worked as a graduate instructor supervised by Dr. Hyunjoo Im. For the undergraduate course "RM 4216: Retail Promotions", I held office hours and graded assignments for 64 students.
+During Fall 2024, I worked as a graduate instructor supervised by Dr. Hyunjoo Im. For the undergraduate course "RM 4216: Retail Promotions", I designed the syllabus, assignments, and exams, provided in-person lectures, arranged guest lectures, graded assignments, and held office hours for 24 students.
 
 ## Student Ratings
 
