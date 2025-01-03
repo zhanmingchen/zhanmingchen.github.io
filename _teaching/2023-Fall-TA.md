@@ -5,7 +5,7 @@ type: "Undergraduate course"
 permalink: /teaching/2023-Fall-TA
 venue: "Universit of Minnesota, College of Design"
 date: 2023-12-31
-location: "Guangzhou, China"
+location: "Saint Paul, MN, US"
 excerpt: 'For this undergraduate course, I held office hours and graded assignments for 64 students.'
 ---
 
