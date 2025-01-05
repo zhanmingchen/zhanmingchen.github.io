@@ -17,9 +17,9 @@ redirect_from:
 
 ## 🥳 News
 
-<span class="highlight" style="background-color: #ffd40070">[11-12-2024]</span> I'm thrilled to present my first poster: _"Supporting Healthcare Providers’ Motivations for Caring for Patients in Underserved Communities."_ during CSCW '24 in San Jose, Costa Rica. (Source: [LinkedIn Post](https://www.linkedin.com/posts/zhanmingchen_cscw24-activity-7262318204255911936-CNR9?utm_source=share&utm_medium=member_ios))
+<span class="highlight" style="background-color: #ffd40070">[Nov 12, 2024]</span> I'm thrilled to present my first poster: _"Supporting Healthcare Providers’ Motivations for Caring for Patients in Underserved Communities."_ during CSCW '24 in San Jose, Costa Rica. (Source: [LinkedIn Post](https://www.linkedin.com/posts/zhanmingchen_cscw24-activity-7262318204255911936-CNR9?utm_source=share&utm_medium=member_ios))
 
-<span class="highlight" style="background-color: #ffd40070">[04-12-2024]</span> We greatly appreciate Sarah Paynter for featuring our study _"User-Defined Foot Gestures for Eyes-Free Interaction in Smart Shower Rooms"_ in her latest article in the _Wall Street Journal_! (Source: [LinkedIn Post](https://www.linkedin.com/posts/zhanmingchen_the-medspa-bathroom-fixtures-that-monitor-activity-7183662910198411264-Xu65?utm_source=share&utm_medium=member_desktop))
+<span class="highlight" style="background-color: #ffd40070">[Apr 12, 2024]</span> We greatly appreciate Sarah Paynter for featuring our study _"User-Defined Foot Gestures for Eyes-Free Interaction in Smart Shower Rooms"_ in her latest article in the _Wall Street Journal_! (Source: [LinkedIn Post](https://www.linkedin.com/posts/zhanmingchen_the-medspa-bathroom-fixtures-that-monitor-activity-7183662910198411264-Xu65?utm_source=share&utm_medium=member_desktop))
 
 ## 📄 Latest Publications
 
