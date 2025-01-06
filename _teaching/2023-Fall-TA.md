@@ -3,13 +3,13 @@ title: "TA: Introduction to Retail Merchandising"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-Fall-TA
-venue: "Universit of Minnesota, College of Design"
+venue: "University of Minnesota, College of Design"
 date: 2023-12-31
 location: "Saint Paul, MN, US"
-excerpt: 'For this undergraduate course, I held office hours and graded assignments for 64 students.'
+excerpt: 'I held office hours and graded assignments for 64 undergraduate students.'
 ---
 
-## Teaching Description
+## Highlights
 
 During Fall 2023, I worked as a teaching assistant supervised by Ms. Peggy Lord. For the undergraduate course "RM 2215: Introduction to Retail Merchandising" (online, asynchronous), I held office hours and graded assignments for 64 students.
 
@@ -21,7 +21,7 @@ During Fall 2023, I worked as a teaching assistant supervised by Ms. Peggy Lord.
 - Interactions with the instructor helped me learn. \[**4.93**/6.00\]
 - The instructor treated me with respect. \[**5.25**/6.00\]
 - The instructor provided feedback intended to improve my course performance. \[**5.00**/6.00\]
-- would recommend this instructor to other students. \[**5.41**/6.00\]
+- I would recommend this instructor to other students. \[**5.41**/6.00\]
 
 <p align="center">
   <img src="/images/TA-RM2215-Rating.png" alt="TA-RM2215-Rating" width="600"/>
